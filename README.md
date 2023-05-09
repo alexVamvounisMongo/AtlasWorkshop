@@ -1,11 +1,11 @@
 # Atlas Workshop
 
 ## Prerequisites
-Workshop attendees MUST bring their own personal laptop in order to actively participate in the workshop.
+Workshop attendees will likely need to bring their own personal laptop in order to actively participate in the workshop.
 
 Please create a user account on MongoDB Atlas. 
 
-Accounts MUST be created using your personal email address, NOT your J.P.Morgan email.
+Accounts will likely need to be created using your personal email address, NOT your corporate email.
 
 Download and Install MongoDB Compass, this is verified MongoDB software. Please only use this official link.﻿
 
