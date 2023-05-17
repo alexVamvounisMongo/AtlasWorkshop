@@ -12,7 +12,7 @@ const SearchBar = ({
   showSuggestions,
   setShowSuggestions,
 }) => {
-  const TITLES_ENDPOINT = "";
+  const TITLES_ENDPOINT = "https://us-east-1.aws.data.mongodb-api.com/app/movies-otkfx/endpoint/movies";
 
   const initial = useRef(true); // a mutable variable that will not affect state - and won't trigger a re-render
   const [suggestions, setSuggestions] = useState([]);
